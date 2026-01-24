@@ -8,11 +8,7 @@ f. 80 to 100 - A
 Ask user to enter marks and print the corresponding grade.*/
 
 #include<iostream>
-void maaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-sssssaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-
-swscanf
-
-sdweewertyuiuiopp[]'\;lkjhgfdsxcvDD233FGHJKLL;'\/.l/.MN,NNBBVCX
-++++WSXWSXXWSXWXWSXWXWXWXWXW
+void main()
+{
+    cout
+}

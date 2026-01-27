@@ -32,11 +32,9 @@ int main()
 }
 
 /*OUTPUT
-Input an Integer N = 6
-A
-BB
-CCC
-DDDD
-EEEEE
-FFFFFF
+Input an Integer N = 4
+   A
+  ABA
+ ABCBA
+ABCDCBA
 */

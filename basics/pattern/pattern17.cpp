@@ -8,16 +8,15 @@ void print(int n)
     char ch;
     for (i = 1; i <= n; i++)
     {
-        ch ='A';
-        for (j = 1; j <= n - i; j++){
+        for(j=1; j <= n-i; j++){
             cout << " ";
         }
-        for (j = 1; j <= i; j++){
-            cout << ch++;
-        }
-        ch--;
-        for (j = 1; j < i; j++){
-            cout << --ch;
+        ch ='A';
+        for(j=1;j<=2*i-1;j++){
+            cout << ch;
+            if (j < i) ch++;
+            else ch--;
+
         }
         cout << endl;
     }

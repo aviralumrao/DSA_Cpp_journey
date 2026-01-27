@@ -1,4 +1,4 @@
-// Pattern - 11: Binary Number Triangle Pattern
+// Pattern - 12: Number Crown Pattern
 #include <bits/stdc++.h>
 using namespace std;
 
